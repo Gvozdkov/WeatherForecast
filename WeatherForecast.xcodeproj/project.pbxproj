@@ -13,7 +13,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E7496B9B2DDA263C00633972 /* WeatherForecast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherForecast.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7496B9B2DDA263C00633972 /* WeatherForecast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = WeatherForecast.app; path = "/Users/aleksejgvozdkov/Desktop/WeatherForecast/build/Debug-iphoneos/WeatherForecast.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -55,16 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				E7496B9D2DDA263C00633972 /* WeatherForecast */,
-				E7496B9C2DDA263C00633972 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		E7496B9C2DDA263C00633972 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				E7496B9B2DDA263C00633972 /* WeatherForecast.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +116,7 @@
 				E7496BB92DDA2C3B00633972 /* XCRemoteSwiftPackageReference "SnapKit" */,
 			);
 			preferredProjectObjectVersion = 77;
-			productRefGroup = E7496B9C2DDA263C00633972 /* Products */;
+			productRefGroup = E7496B922DDA263C00633972;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
