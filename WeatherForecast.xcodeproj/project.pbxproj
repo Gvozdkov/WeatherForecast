@@ -13,7 +13,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E7496B9B2DDA263C00633972 /* WeatherForecast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = WeatherForecast.app; path = "/Users/aleksejgvozdkov/Desktop/WeatherForecast/build/Debug-iphoneos/WeatherForecast.app"; sourceTree = "<absolute>"; };
+		E77FABB52DDA323E00258C19 /* WeatherForecast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherForecast.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -55,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				E7496B9D2DDA263C00633972 /* WeatherForecast */,
+				E77FABB52DDA323E00258C19 /* WeatherForecast.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -83,7 +84,7 @@
 				E7496BBA2DDA2C3B00633972 /* SnapKit */,
 			);
 			productName = WeatherForecast;
-			productReference = E7496B9B2DDA263C00633972 /* WeatherForecast.app */;
+			productReference = E77FABB52DDA323E00258C19 /* WeatherForecast.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */

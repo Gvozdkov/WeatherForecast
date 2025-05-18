@@ -14,7 +14,7 @@ final class WeatherCollectionCell: UICollectionViewCell {
     
     private lazy var avgtempLabel: UILabel = {
         let label = UILabel()
-        label.textColor = .black
+        label.textColor = Colors.black
         label.textAlignment = .left
         label.text = "17"
         label.font = Fonts.body
@@ -29,7 +29,7 @@ final class WeatherCollectionCell: UICollectionViewCell {
     
     private lazy var dateLabel: UILabel = {
         let label = UILabel()
-        label.textColor = .black
+        label.textColor = Colors.black
         label.textAlignment = .left
         label.text = "PN"
         label.font = Fonts.body
@@ -38,7 +38,7 @@ final class WeatherCollectionCell: UICollectionViewCell {
     
     private lazy var descriptionLabel: UILabel = {
         let label = UILabel()
-        label.textColor = .black
+        label.textColor = Colors.black
         label.textAlignment = .left
         label.text = "Описание погоды"
         label.font = Fonts.body
@@ -47,7 +47,7 @@ final class WeatherCollectionCell: UICollectionViewCell {
     
     private lazy var maxwindLabel: UILabel = {
         let label = UILabel()
-        label.textColor = .black
+        label.textColor = Colors.black
         label.textAlignment = .left
         label.text = "Скорость ветра 54"
         label.font = Fonts.body
@@ -56,7 +56,7 @@ final class WeatherCollectionCell: UICollectionViewCell {
     
     private lazy var avghumidityLabel: UILabel = {
         let label = UILabel()
-        label.textColor = .black
+        label.textColor = Colors.black
         label.textAlignment = .left
         label.text = "Влажность 88"
         label.font = Fonts.body
